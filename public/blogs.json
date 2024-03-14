@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "author_name": "Alice Thompson",
+      "author_img": "https://i.ibb.co/3p0kGBY/person-1.png",
+      "read_time": 12,
+      "cover_img": "https://i.ibb.co/KVYs3j9/notebook-pen-with-study-space-background.jpg",
+      "hashtags": ["cooking", "recipes", "food"],
+      "title": "Delicious Pasta Recipes",
+      "publish_date": "2024-03-14"
+    },
+    {
+      "id": 2,
+      "author_name": "Bob Johnson",
+      "author_img": "https://i.ibb.co/b1zt1mp/person-2.png",
+      "read_time": 6,
+      "cover_img": "https://i.ibb.co/j5SgpqY/cover-2.jpg",
+      "hashtags": ["finance", "investing", "stocks"],
+      "title": "10 Tips for Successful Investing",
+      "publish_date": "2024-03-13"
+    },
+    {
+      "id": 3,
+      "author_name": "Carol Lee",
+      "author_img": "https://i.ibb.co/F5cXkHz/person-3.png",
+      "read_time": 20,
+      "cover_img": "https://i.ibb.co/Tbzzp8h/cover3.jpg",
+      "hashtags": ["history", "ancient", "civilizations"],
+      "title": "Lost Cities of the World",
+      "publish_date": "2024-03-12"
+    },
+    {
+      "id": 4,
+      "author_name": "David Smith",
+      "author_img": "https://i.ibb.co/3p0kGBY/person-1.png",
+      "read_time": 8,
+      "cover_img": "https://i.ibb.co/NshTgfy/cover4.jpg",
+      "hashtags": ["technology", "gadgets", "innovation"],
+      "title": "The Latest Tech Gadgets",
+      "publish_date": "2024-03-11"
+    }
+  ]
+  
